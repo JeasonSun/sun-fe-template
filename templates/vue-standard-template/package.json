@@ -1,17 +1,12 @@
 {
   "name": "@sun-fe-template/vue-standard-template",
   "version": "1.0.1",
-  "description": "> TODO: description",
+  "description": "Vue3标准模板",
   "author": "mojie <sunjunjie@okay.cn>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/vue-standard-template.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
   "files": [
-    "lib"
+    "template"
   ],
   "publishConfig": {
     "access": "public"

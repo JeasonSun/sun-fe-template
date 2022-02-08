@@ -4,6 +4,7 @@
 .changelog
 .npm
 *.tgz
+test
 
 node_modules
 lerna-debug.log
